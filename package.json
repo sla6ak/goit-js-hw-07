@@ -1,0 +1,22 @@
+{
+  "name": "home-work-07",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sla6ak/goit-js-hw-07.git"
+  },
+  "author": "viktor yachmenik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sla6ak/goit-js-hw-07/issues"
+  },
+  "homepage": "https://github.com/sla6ak/goit-js-hw-07#readme",
+  "dependencies": {
+    "basiclightbox": "^5.0.4"
+  }
+}
