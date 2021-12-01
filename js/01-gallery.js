@@ -40,9 +40,9 @@ gallerey.addEventListener( 'click', onImjClick )
 function onImjClick ( e ) {
     e.preventDefault();
 
-    // if ( e.target.nodeName !== 'IMG' ) {
-    //     return
-    // }
+    if ( e.target.nodeName !== 'IMG' ) {
+        return
+    }
 
     // для наглядности вынесем елемент клика в переменную
     let clickImg = e.target
