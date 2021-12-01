@@ -1,5 +1,5 @@
 import { galleryItems } from './gallery-items.js';
-// import * as basicLightbox from '../node_modules/basiclightbox';
+// import * as basicLightbox from 'basiclightbox';
 // Change code below this line
 
 console.log(galleryItems);
